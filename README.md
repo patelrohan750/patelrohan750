@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Rohan Patel</h1>
+<h1><p align="center">Hello, I'm Rohan Patel <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="center" ><img 
+ src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/></p>
 
 
 - 🔭 I’m currently working on [Rocoderes](https://rocoderes.com/)
