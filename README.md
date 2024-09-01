@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://rocoderes.com/](https://rocoderes.com/)
 
-- 💬 Ask me about **Frontend Technologies**
+- 💬 Ask me about **Frontend & Backend Technologies**
 
 - 📫 How to reach me **patelrohan750@gmail.com**
 
