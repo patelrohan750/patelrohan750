@@ -1,45 +1,54 @@
+<div align="center">
 
-<h1><p align="center">Hello, I'm Rohan Patel <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
-<h3 align="center">A passionate Full stack developer from India</h3>
+# Hey, I'm Rohan Patel
 
-<p align="center" ><img 
- src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%"/></p>
+**Software Engineer** building tools that solve real problems.
 
+Currently shipping [TryDevTools](https://trydevtools.com) — 750+ free browser-based developer tools.
 
-- 🔭 I’m currently working on [ReactjsGuru](https://reactjsguru.com/)
+[![Twitter](https://img.shields.io/badge/-@patelrohan750-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://twitter.com/patelrohan750)
+[![Website](https://img.shields.io/badge/-trydevtools.com-000?style=flat-square&logo=safari&logoColor=white)](https://trydevtools.com)
+[![Gmail](https://img.shields.io/badge/-patelrohan750-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:patelrohan750@gmail.com)
 
-- 🌱 I’m currently learning **React Js**
- <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+</div>
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+---
 
-- 🤝 I’m looking for help with **React**
+### What I'm working on
 
-- 📝 I regularly write articles on [https://rocoderes.com/](https://rocoderes.com/)
+- Building **IndexPing** — a SaaS that bulk-checks if your pages are indexed in Google
+- Maintaining **TryDevTools** — 750+ developer tools used by thousands daily
+- Exploring automation, SEO tools, and AI-powered workflows
 
-- 💬 Ask me about **Frontend & Backend Technologies**
+### What I build with
 
-- 📫 How to reach me **patelrohan750@gmail.com**
+```
+Frontend    →  Next.js  /  React  /  TypeScript  /  Tailwind CSS
+Backend     →  Node.js  /  Python  /  PostgreSQL  /  Prisma
+Infra       →  Vercel  /  Supabase  /  Google Cloud
+Other       →  Chrome Extensions  /  REST APIs  /  Web Scraping
+```
 
+### Featured projects
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-<p align="left">  
-<a href="https://twitter.com/rocoderes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rocoderes" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/patel-rohan-750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patel-rohan-750" height="30" width="40" /></a>  
-<a href="https://fb.com/rocoderes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rocoderes" height="30" width="40" /></a>  
-<a href="https://instagram.com/rocoderes24x7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocoderes24x7" height="30" width="40" /></a>  
-</p>
+| Project | What it does |
+|---------|-------------|
+| [TryDevTools](https://trydevtools.com) | 750+ free browser-based dev tools — JSON formatter, regex tester, color picker, and more |
+| [Pinterest AI Pinner](https://github.com/patelrohan750/Pinterest-AI-Image-Pinner) | Automated AI image scraper + Pinterest pin creator |
+| [Domain Age Checker](https://github.com/patelrohan750/Domain-Age-Checker) | Chrome extension to check any domain's age instantly |
+| [Certificate Generator](https://github.com/patelrohan750/certificate_generator) | Generate certificates in bulk with JavaScript |
 
+### The numbers
 
-<summary>
-<h2 align="left">👨‍💻 Languages and Tools:</h2>
-</summary>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://pugjs.org" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="60"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" height="60"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60" height="60"/> </a>
-<a href="https://business.adobe.com/products/magento/magento-commerce.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg" alt="magento" width="60" height="60"/> </a>
-</p>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=patelrohan750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=patelrohan750&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelrohan750&show_icons=true&theme=radical" alt="patelrohan750" /></p>
+---
+
+<div align="center">
+<sub>I build things, ship fast, and iterate based on what users actually want.</sub>
+</div>
