@@ -116,40 +116,6 @@ motto: "Ship it, get feedback, iterate."
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://trydevtools.com">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Pinterest-AI-Image-Pinner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/patelrohan750/certificate_generator">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=certificate_generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/patelrohan750/Domain-Age-Checker">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Domain-Age-Checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-</a>
-<a href="https://github.com/patelrohan750/Stackoverflow-to-WordPress-Automator">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Stackoverflow-to-WordPress-Automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
-</a>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelrohan750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=patelrohan750&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=patelrohan750&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" width="98%" />
-
-</div>
-
 ---
 
 <div align="center">
