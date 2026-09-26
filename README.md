@@ -14,7 +14,9 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelrohan750&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="320" />
+<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patelrohan750&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" width="320" />
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380" />
 
 ## About Me
 
@@ -119,16 +121,16 @@ motto: "Ship it, get feedback, iterate."
 <div align="center">
 
 <a href="https://trydevtools.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelrohan750&repo=Pinterest-AI-Image-Pinner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Pinterest-AI-Image-Pinner&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/patelrohan750/certificate_generator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelrohan750&repo=certificate_generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=certificate_generator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/patelrohan750/Domain-Age-Checker">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelrohan750&repo=Domain-Age-Checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Domain-Age-Checker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 </a>
 <a href="https://github.com/patelrohan750/Stackoverflow-to-WordPress-Automator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=patelrohan750&repo=Stackoverflow-to-WordPress-Automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=patelrohan750&repo=Stackoverflow-to-WordPress-Automator&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%" />
 </a>
 
 </div>
@@ -139,8 +141,8 @@ motto: "Ship it, get feedback, iterate."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=patelrohan750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=patelrohan750&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=patelrohan750&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=patelrohan750&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 
 <br/>
 
@@ -152,6 +154,12 @@ motto: "Ship it, get feedback, iterate."
 
 <div align="center">
 
+### Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="520" />
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=patelrohan750&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 <br/><br/>
@@ -159,6 +167,28 @@ motto: "Ship it, get feedback, iterate."
 **If you like my work, consider giving a star to my repos!**
 
 <a href="https://x.com/patelrohan750"><img src="https://img.shields.io/badge/-Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+
+</div>
+
+---
+
+## What I'm Building Right Now
+
+<div align="center">
+
+```
+ +---------------------------------------------------------+
+ |                                                         |
+ |   IndexPing  -  Bulk Google Index Checker                |
+ |                                                         |
+ |   Paste URLs or sitemap  ->  Check Google in seconds    |
+ |   ->  See which pages are indexed  ->  Export CSV       |
+ |                                                         |
+ |   Status: Validating demand                             |
+ |   ████████████░░░░░░░░  60%                             |
+ |                                                         |
+ +---------------------------------------------------------+
+```
 
 </div>
 
